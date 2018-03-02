@@ -1,0 +1,5 @@
+Le but de se projet est de m'entrainer à l'implémentation des designs patterns populaires. Il m'est permis de :
+-retravailler à tout moment un projet qui me semblait être terminé
+-ne pas considérer que la version 1 doit être suffisante et propre. L'itération sert aussi à améliorer et à nettoyer
+-ne pas utiliser le design pattern à 100% comme il se doit être. Je peux m'en écarter à condition de l'expliquer dans un fichier texte. L'intérêt est de créer l'implémentation qui correpond à la situation que je me suis donné tout en m'obligeant à être conscient de pourquoi je me suis permis de m'écarter du DP de base.
+-de commenter autant que je le souhaite, même à être superflus. Un code propre est sensé être auto-explicite. Mais ici l'un des objectifs est de m'assurer de comprendre et de retrouver facilement la philosophie de chaque pattern.
