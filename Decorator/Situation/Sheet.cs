@@ -8,6 +8,9 @@ namespace Decorator.Situation
     {
         int Width { get; }
         int Height { get; }
+        void AddSign(ISign<Object> sign);
+        int SignCount { get; }
+        IEnumerable<Object> RenderAll();
     }
 
 
@@ -16,6 +19,7 @@ namespace Decorator.Situation
         public int Width { get => 16; }
         public int Height { get => 30; }
 
+        public int SignCount => _content.Count;
 
         private List<ISign<Object>> _content = new List<ISign<Object>>();
 
