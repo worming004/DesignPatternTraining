@@ -9,5 +9,6 @@ namespace ChainOfResponsibility.Exceptions
         public BaseImportException(string message) : base(message)
         {
         }
+        public override string Message => new StringBuilder().Append("Error: ").Append(base.Message).ToString();
     }
 }
