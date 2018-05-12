@@ -1,0 +1,11 @@
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\bin\Debug\netcoreapp2.0\ChainOfResponsibility.deps.json
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\bin\Debug\netcoreapp2.0\ChainOfResponsibility.runtimeconfig.json
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\bin\Debug\netcoreapp2.0\ChainOfResponsibility.runtimeconfig.dev.json
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\bin\Debug\netcoreapp2.0\ChainOfResponsibility.dll
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\bin\Debug\netcoreapp2.0\ChainOfResponsibility.pdb
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\obj\Debug\netcoreapp2.0\ChainOfResponsibility.csprojResolveAssemblyReference.cache
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\obj\Debug\netcoreapp2.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\obj\Debug\netcoreapp2.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\obj\Debug\netcoreapp2.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\obj\Debug\netcoreapp2.0\ChainOfResponsibility.dll
+C:\Git\C#\DesignPatternTraining\ChainOfResponsability\obj\Debug\netcoreapp2.0\ChainOfResponsibility.pdb
